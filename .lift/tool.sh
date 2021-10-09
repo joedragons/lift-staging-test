@@ -12,7 +12,7 @@ function applicable() {
 }
 
 function run() {
-    echo "[{ \"type\": \"Hello Amy\", \
+    echo "[{ \"type\": \"Hello Joe\", \
             \"message\": \"Lift is analyzing commit $commit\", \
             \"file\": \"file.txt\", \
             \"line\": 0, \
