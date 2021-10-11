@@ -8,10 +8,8 @@ from pathlib import Path
 def emit_version():
     print(1)
 
-
 def emit_name():
     print("markdown_tool")
-
 
 def emit_applicable():
     print("true")
