@@ -1,1 +1,3 @@
 Example file
+
+This is a markdown comment and should trigger Liftbot
