@@ -41,7 +41,7 @@ def process_file(filename):
 
 def line_to_tool_note(filename, line_number, message):
     return {
-        "type": "Markdown Tool",
+        "type": "Markdown Tool"
         "message": message,
         "file": filename,
         "line": line_number
