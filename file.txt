@@ -1,3 +1,1 @@
 Example file
-
-Adding a markdown comment
