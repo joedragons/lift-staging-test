@@ -33,7 +33,7 @@ def process_file(filename):
             if("markdown comment" in line):
                 tool_notes.append(line_to_tool_note(file_display, current_line, "#Markdown Header\n\nMarkdown Body"))
             if("markdown code snippet" in line)
-                tool_notes.append(line_to_tool_note(file_display, current_line, "```crabbypatty\nlet best_programming_language = \"🦀\";\n```"))
+                tool_notes.append(line_to_tool_note(file_display, current_line, "```crabby\nlet best_programming_language = \"🦀\";\n```"))
     
     return tool_notes
 
