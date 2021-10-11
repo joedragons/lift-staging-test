@@ -7,11 +7,9 @@ from pathlib import Path
 
 def emit_version():
     print(1)
-
-
+    
 def emit_name():
     print("markdown_tool")
-
 
 def emit_applicable():
     print("true")
@@ -34,7 +32,7 @@ def process_file(filename):
             current_line += 1
             if("markdown comment" in line):
                 tool_notes.append(line_to_tool_note(file_display, current_line, "#Markdown Header\n\nMarkdown Body"))
-            if("markdown code snippet" in line):
+            if("markdown code snippet" in line)
                 tool_notes.append(line_to_tool_note(file_display, current_line, "```rust\nlet best_programming_language = \"🦀\";\n```"))
     
     return tool_notes
