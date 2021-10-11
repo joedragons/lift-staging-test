@@ -1,3 +1,3 @@
 Example file
 
-merge conflict markdown line add
+merge conflict markdown comment line add
