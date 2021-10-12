@@ -1,1 +1,3 @@
 Example file
+
+markdown code snippet
