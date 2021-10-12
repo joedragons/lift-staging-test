@@ -1,3 +1,5 @@
 # lift-staging-test
 
-This is an example repo for me to test out integration with Sonatype Lift
+This is arepo to assist testing out the integration with Sonatype Lift
+
+Credit: Amy Keibler
