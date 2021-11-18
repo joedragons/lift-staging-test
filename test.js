@@ -1,0 +1,4 @@
+badcode;;;;;
+talker
+should
+comment
