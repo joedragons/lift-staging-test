@@ -1,1 +1,3 @@
 Example file
+
+Staging markdown comment test
