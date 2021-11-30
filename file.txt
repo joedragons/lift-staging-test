@@ -1,3 +1,3 @@
 Example file
 
-A markdown comment in file.txt
+A markdown comment in file.txt for release testing
