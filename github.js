@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { connect } from 'react-redux';
+import React, { omponent} from 'react';
+import {connect} from 'react-redux';
 
 class Post extends Component {
   render() {
