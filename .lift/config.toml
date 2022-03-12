@@ -1,6 +1,6 @@
-tools = [ "infer" ]
-#customTools = [
-#    ".lift/tool.sh",
-#    ".lift/markdown_tool.py",
-#    "https://github.com/amy-keibler/lift-tools-framework/releases/download/0.1.0.0-alpha/example-run-per-file"
-#    ]
+#tools = [ "infer" ]
+customTools = [
+    ".lift/tool.sh",
+    ".lift/markdown_tool.py",
+    "https://github.com/amy-keibler/lift-tools-framework/releases/download/0.1.0.0-alpha/example-run-per-file"
+    ]
