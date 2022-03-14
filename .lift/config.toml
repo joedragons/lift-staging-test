@@ -1,4 +1,4 @@
-tools = [ "infer", "Checkov" ]
+#tools = [ "infer" ]
 customTools = [
     ".lift/tool.sh",
     ".lift/markdown_tool.py",
