@@ -1,4 +1,4 @@
-#tools = [ "infer" ]
+tools = [ "psalm" ]
 customTools = [
     ".lift/tool.sh",
     ".lift/markdown_tool.py",
