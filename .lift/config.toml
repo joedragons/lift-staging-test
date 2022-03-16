@@ -3,5 +3,5 @@ customTools = [
     ".lift/tool.sh",
     ".lift/markdown_tool.py",
     "https://github.com/amy-keibler/lift-tools-framework/releases/download/0.1.0.0-alpha/example-run-per-file",
-    "https://help.sonatype.com/lift/files/78578763/78578764/1/1623180860953/pmd.sh rulesets/java/quickstart.xml"
+    "https://help.sonatype.com/lift/files/78578761/78578762/1/1623180857208/mdl.sh"
     ]
