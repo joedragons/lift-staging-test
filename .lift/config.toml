@@ -1,5 +1,5 @@
 #tools = [ "infer" ]
-disableTools = [ "pyre" ]
+#disableTools = [ "pyre" ]
 customTools = [
     ".lift/tool.sh",
     ".lift/markdown_tool.py",
