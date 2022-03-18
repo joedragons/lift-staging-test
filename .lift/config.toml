@@ -1,4 +1,5 @@
 #tools = [ "infer" ]
+disableTools = [ "infer" ]
 customTools = [
     ".lift/tool.sh",
     ".lift/markdown_tool.py",
