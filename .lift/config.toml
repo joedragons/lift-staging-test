@@ -1,7 +1,7 @@
 #tools = [ "infer" ]
 #disableTools = [ "pyre" ]
 ignoreFiles = '''
-   file.txt
+   whateverfile.txt
 '''
 customTools = [
     ".lift/tool.sh",
