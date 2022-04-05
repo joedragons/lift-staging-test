@@ -1,6 +1,7 @@
 #tools = [ "infer" ]
 #disableTools = [ "pyre" ]
 ignoreFiles = '''
+   **/test/**
    file.txt
 '''
 customTools = [
