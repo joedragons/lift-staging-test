@@ -1,10 +1,10 @@
 #tools = [ "infer" ]
 #disableTools = [ "pyre" ]
-ignoreFiles = '''
-   fakefile.txt
-   file.txt
-   fakefile2.txt
-'''
+#ignoreFiles = '''
+#   fakefile.txt
+#   file.txt
+#   fakefile2.txt
+#'''
 customTools = [
     ".lift/tool.sh",
     ".lift/markdown_tool.py",
