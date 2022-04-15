@@ -1,1 +1,9 @@
-Example file
+Example file with 2 occurances
+
+markdown comment
+
+line break
+
+markdown code snippet
+
+file end
