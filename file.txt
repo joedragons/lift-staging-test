@@ -1,1 +1,5 @@
 Example file
+
+markdown comment
+
+something at the end
