@@ -1,7 +1,7 @@
 Example file
 
-new line
+new edited line
 
 markdown comment
 
-end line
+end edited line
