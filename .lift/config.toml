@@ -1,6 +1,6 @@
 #tools = [ "infer" ]
 #disableTools = [ "pyre" ]
-commentStyle = "none"
+commentStyle = "minimal"
 customTools = [
     ".lift/tool.sh",
     ".lift/markdown_tool.py",
