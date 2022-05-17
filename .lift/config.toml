@@ -1,6 +1,5 @@
 #tools = [ "infer" ]
 #disableTools = [ "pyre" ]
-disablePrompt=true
 customTools = [
     ".lift/tool.sh",
     ".lift/markdown_tool.py",
