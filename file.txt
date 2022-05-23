@@ -3,3 +3,5 @@ Example file
 markdown comment
 
 and another new line to trigger
+
+yet another new line
