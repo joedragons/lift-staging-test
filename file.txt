@@ -1,1 +1,9 @@
 Example file
+
+first markdown comment
+
+some stuff in between
+
+second markdown comment
+
+endfile
