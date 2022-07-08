@@ -1,0 +1,3 @@
+Example file6
+
+markdown comment 6
