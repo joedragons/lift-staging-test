@@ -1,1 +1,13 @@
 Example file
+
+first markdown comment
+
+interim stuff
+
+second markdown comment
+
+random stuff
+
+third markdown comment
+
+endfile
