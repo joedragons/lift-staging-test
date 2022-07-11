@@ -1,0 +1,4 @@
+Example file 3
+
+markdown comment 3
+
