@@ -1,1 +1,13 @@
 Example file
+
+markdown comment 1
+
+line 1
+
+markdown comment 2
+
+line 2
+
+markdown comment 3
+
+end
