@@ -1,6 +1,6 @@
 Example file
 
-markdown comment 1
+mark's comment 1
 
 line break 1
 
@@ -16,7 +16,7 @@ markdown comment 4
 
 line 4
 
-markdown comment 5
+mark's comment 5
 
 line 5
 
