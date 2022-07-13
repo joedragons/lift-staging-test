@@ -92,4 +92,12 @@ markdown comment 23
 
 line 23
 
+markdown comment 24
+
+line 24
+
+markdown comment 25
+
+line 25
+
 endline
