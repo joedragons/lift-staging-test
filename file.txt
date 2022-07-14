@@ -112,4 +112,8 @@ markdown comment 28
 
 line 28
 
+new markdown comment 1
+
+line 29
+
 endline
