@@ -3,6 +3,12 @@ dir=$1
 commit=$2
 cmd=$3 
 
+function tellApplicable() {
+    printf "true\n" "$res"
+    
+    printf "testing\n" "$something else"
+}
+
 function version() {
     echo 1
 }
