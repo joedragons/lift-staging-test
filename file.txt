@@ -1,1 +1,5 @@
 Example file
+
+markdown comment
+
+am I a bot?
