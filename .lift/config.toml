@@ -1,10 +1,8 @@
 #tools = [ "infer" ]
 #disableTools = [ "pyre" ]
 #commentStyle = "minimal"
-#customTools = [
-#    ".lift/tool.sh",
-#    ".lift/markdown_tool.py",
-#    "https://github.com/amy-keibler/lift-tools-framework/releases/download/0.1.0.0-alpha/example-run-per-file"
-#    ]
-customTools = [ "/extra-tools/clomonitor.sh" ]
-tools = [ ]
+customTools = [
+    ".lift/tool.sh",
+    ".lift/markdown_tool.py",
+    "https://github.com/amy-keibler/lift-tools-framework/releases/download/0.1.0.0-alpha/example-run-per-file"
+    ]
