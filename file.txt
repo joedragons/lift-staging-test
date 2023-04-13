@@ -1,1 +1,1 @@
-Example file
+An example file for testing
