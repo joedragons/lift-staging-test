@@ -1,4 +1,4 @@
-#tools = [ "infer" ]
+tools = [ "infer" ]
 #disableTools = [ "pyre" ]
 #commentStyle = "minimal"
 customTools = [
